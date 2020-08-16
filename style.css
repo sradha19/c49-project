@@ -1,0 +1,54 @@
+a{
+    color: #551A8B
+}
+p{
+    font-size:x-large;
+    
+
+}
+
+.AboutMe{
+    font-size: 30px;
+}
+li{
+    font-size: large;
+}
+.Top{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.Origamis{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: center; 
+  
+}
+
+.Description{
+    text-align: center;
+    color: #BEBEBE
+}
+.footer{
+    display: flex;
+    justify-content: center; 
+    font-size: 25px;
+}
+body{
+    margin: 0px;
+    background-color:  #40a1a1;
+    font-family: sans-serif;
+    
+}
+
+a:link{
+    color: white;
+}
+a :visited{
+    color: white;
+}
+
+.Origamis a :hover {
+    transform: scale(1.2);
+}
